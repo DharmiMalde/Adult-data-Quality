@@ -64,17 +64,3 @@ This repository contains a comprehensive analysis of the **Adult Census Income D
 - [PyDeequ](https://github.com/awslabs/deequ)
 - [Great Expectations](https://github.com/great-expectations/great_expectations)
 
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/adult-dataset-analysis.git
-cd adult-dataset-analysis
-
-# Install dependencies (example)
-pip install pandas ydata-profiling great_expectations pyspark
-
-# Open and run the notebook
-jupyter notebook DPDQ_Homework.ipynb
